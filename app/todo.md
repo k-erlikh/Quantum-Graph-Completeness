@@ -1,7 +1,6 @@
 To-do:
 
-- Format graph into adjacency matrix
-- Create traceability matrix from adjacency matrix
+- Decide graph input
 - For evolutionary operator, decide if:
     - Automate oracle creation for any graph of size n
     - Create oracles for a set of graphs of size n
